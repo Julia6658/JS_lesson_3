@@ -9,7 +9,8 @@
 6) Устанавливает значение атрибута 
 7) Вот тут вопрос, так как текст добавляется и менятеся через innerText, но это свойство, а не метод.
 8) elem.innerHTML
-
+9) объект события - это параметр функции-обработчика. Он содержит информацию и о произошедшем событии, и о «кликнутом» элементе.
+10) BOM - это oбъектная модель браузера, предоставляет дополнительные объекты,чтобы работать со всем, кроме документа.
 11) Таблица: let table = document.getElementbyId("age-table");<br>
 Label: let labels = document.querySelectorAll("#age-table label");<br>
 Форма: let form = document.querySelector("form[name='search-person']");
