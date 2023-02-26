@@ -3,7 +3,7 @@
 Ответы на вопросы.
 
 
-
+8) elem.innerHTML
 
 11) Таблица: let table = document.getElementbyId("age-table");<br>
 Label: let labels = document.querySelectorAll("#age-table label");<br>
