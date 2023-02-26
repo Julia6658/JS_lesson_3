@@ -6,7 +6,7 @@
 
 
 
-12) <button onclick="changeHref()" value="Кнопка"> </button><br>
+12) Через атрибут onclick у тега button  вызвать функцию changeHref() <br>
 
 function changeHref() {
   window.location.href = 'https://www.wikipedia.org/'
